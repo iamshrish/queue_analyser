@@ -1,0 +1,12 @@
+cuda-v11.8
+cudnn-windows-x86_64-8.9.7.29_cuda11
+TensorRT-8.6.1.6.Windows10.x86_64.cuda-11.8
+GPU - NVIDIA GeForce Series [Compute capability(version) - 8.0 and above]
+
+
+RAM  - 8GB 
+
+Memory Usage - 10 GB (Streamlit UI loading)
+Memory Usage - 12-13GB (Yolov8 Inference Running & Facial Attributes Weights not Running)
+Memory Usage - 13-14GB (Facial Attributes Analysis Running)
+
