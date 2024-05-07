@@ -14,7 +14,6 @@ ultralytics==8.1.40
 opencv-python-headless
 streamlit
 streamlit-webrtc
-chromadb==0.4.24
 cvzone==1.6.1
 deepface==0.0.89
 easydict==1.13
