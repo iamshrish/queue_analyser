@@ -1,4 +1,4 @@
-chromadb==0.4.24
+chromadb==0.3.29
 cvzone==1.6.1
 deepface==0.0.89
 easydict==1.13
